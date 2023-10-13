@@ -1,0 +1,39 @@
+#Species name here:
+Two_Periods_Selectivity_Inpesca23.dat
+#SSL Species?
+1
+#Constant buffer of Dorn?
+0
+#Number of fisheries?
+1
+#Number of sexes?
+1
+#5year_Average_F(endyr-4,endyr_as_estimated_by_ADmodel)
+0.21279
+#_Author_F_as_fraction_F_40%
+1
+#ABC SPR
+0.4
+#MSY SPR
+0.35
+#_Spawn_month
+7
+#_Number_of_ages
+11
+#_F_ratio(must_sum_to_one_only_one_fishery)
+1
+#_Natural_Mortality 2 3 4 5 6 7 8 9 10 11 12
+0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 0.33 
+#_Maturity_divided_by_2(projection_program_uses_to_get_female_spawning_biomass_if_divide_by_2 2 3 4 5 6 7 8 9 10 11 12
+ 0.48 1.442 1.91 1.988 1.998 2 2 2 2 2 2
+#_Wt_at_age_spawners 2 3 4 5 6 7 8 9 10 11 12
+ 0.28 0.28 0.45 0.51 0.62 0.81 0.87 1.13 1.41 1.7 1.28
+#_Wt_at_age_fishery 2 3 4 5 6 7 8 9 10 11 12
+ 0.28 0.28 0.45 0.51 0.62 0.81 0.87 1.13 1.41 1.7 1.28
+#
+#_Selectivity_fishery_scaled_to_max_at_one 2 3 4 5 6 7 8 9 10 11 12
+ 0.0689844 0.358377 0.808077 0.969455 0.995838 0.999446 0.999927 0.99999 0.999999 1 1
+#_Numbers_at_age_end_year 2 3 4 5 6 7 8 9 10 11 12
+ 316357 284189 182033 108318 62218.4 41182.5 24544.5 17527.3 7562.08 3827 3430.28
+#_Spawning biomass 
+ 436.558 426.845 424.087 394.068 429.619 495.545 575.921 626.511 656.378 653.218 626.979 562.612 448.305 315.248 237.268 217.319 222.807 245.827 278.926 288.534 270.45 224.7 206.042 186.455 182.035 199.376 229.565 260.126 284.884 296.606 300.652 289.06
